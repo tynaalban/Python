@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 12 09:59:58 2024
-
-@author: Tyna
-"""
-
 print("Justina")
 print("5th May, 2024")
 print("""I am signing up for Replit's 100 days of Python challenge!
